@@ -1,0 +1,1 @@
+A fully responsive website for a fried chicken restaurant, featuring a modern design, mobile-friendly layout, interactive menu, and contact section. Built with HTML, CSS, and JavaScript to ensure smooth user experience across all devices.
